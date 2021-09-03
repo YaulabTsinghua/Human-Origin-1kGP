@@ -1,0 +1,7 @@
+mkdir nvcode
+mkdir nvresults
+mv *.sh ./nvcode
+mv *.log ./nvresults
+mv out*.fa ./nvresults
+mv NVdna.pl ./nvcode
+mv outdata* ./nvresults
